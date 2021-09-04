@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
-  <p>You new car is coming baby.. keep a positive mind</p>
+  <p>I Love you Baby</p>
 </body>
 </html>
